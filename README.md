@@ -27,7 +27,7 @@ To leverage my 10+ years of IT expertise and 6 years in cybersecurity to advance
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Mitre Detection Playbook         | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -68,5 +68,4 @@ To leverage my 10+ years of IT expertise and 6 years in cybersecurity to advance
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- MITRE-Detection-Playbook
