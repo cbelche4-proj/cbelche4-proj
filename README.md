@@ -23,7 +23,6 @@ I’m a Cybersecurity Professional with 10+ years of IT experience, including 6 
 To leverage my 10+ years of IT expertise and 6 years in cybersecurity to advance into senior-level roles where I can apply my skills in threat detection, incident response, cloud security, and compliance frameworks. I am passionate about building resilient security operations, mentoring junior analysts, and engineering proactive defenses that reduce risk and strengthen organizational security posture.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
