@@ -27,7 +27,7 @@ To leverage my 10+ years of IT expertise and 6 years in cybersecurity to advance
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Mitre Detection Playbook         | <a href="https://github.com/cbelche4-proj/MITRE-Detection-Playbook">Playbook Lab</a>|
-| Incident Portfolio | <a href=https://github.com/cbelche4-proj/Incident-Response-Portfolio>IR Portfolio</a>|
+| Detection Toolbox | <a href=https://https://github.com/cbelche4-proj/Detection-Toolbox/blob/main/README.md>Toolbox</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
